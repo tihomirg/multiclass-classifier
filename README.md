@@ -4,21 +4,6 @@ This repository contains a complete, end-to-end implementation of a Deep Neural 
 The project serves as a comprehensive pipeline for taking raw feature data, preprocessing it for neural network consumption, training a dense feed-forward architecture, evaluating multi-threshold performance, and generating predictions.
 ---
 
-
- ## 📋 Table of Contents
-
-
-* [Project Overview](https://www.google.com/search?q=%23-project-overview)
-* [Dataset & Preprocessing](https://www.google.com/search?q=%23-dataset--preprocessing)
-* [Model Architecture](https://www.google.com/search?q=%23-model-architecture)
-* [Training & Optimization](https://www.google.com/search?q=%23-training--optimization)
-* [Evaluation Metrics](https://www.google.com/search?q=%23-evaluation-metrics)
-* [Dependencies & Installation](https://www.google.com/search?q=%23-dependencies--installation)
-
-
- ---
-
-
 ## 🚀 Project Overview
  
  
